@@ -1,0 +1,2 @@
+You are been given 2 coordinates, king and queen. 
+Need to output if king is in check on a table of 8 by 8;
